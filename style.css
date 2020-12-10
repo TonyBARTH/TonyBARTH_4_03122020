@@ -507,7 +507,6 @@ button {
 
 .form-control {
     border-color: rgba(0, 0, 0, .1);
-    box-shadow: none;
 }
 
 .scrollToTop {
@@ -767,16 +766,12 @@ h4 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
-
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3b497!important;
 }
 
 .btn-atomic-tangerine {
@@ -1006,7 +1001,7 @@ h4 {
         margin-top: 30px;
     }
     form {
-        padding: 5px;
+        padding: 50px;
     }
     .close-lightbox {
         display: inline-block;
@@ -1020,6 +1015,9 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .portfolio-thumb {
+        margin: auto;
     }
 }
 
